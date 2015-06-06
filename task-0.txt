@@ -1,0 +1,38 @@
+a) How to use githhub? 
+
+Read through following article and try to DIY in your computer.
+
+http://lifehacker.com/5983680/how-the-heck-do-i-use-github
+
+Since you're using Ubuntu, step2 (install git) can be a little different:
+
+
+run following command in your terminal 
+
+     sudo apt-get install git
+
+homework: create a repository named 'python-adventure ' in your github, push a local file named "task-0.txt", which contains everything I write in this email.
+ 
+b) Install python
+
+First, please run following command in your terminal
+
+    python -V
+
+If you have python installed, the output should be like
+    Python 2.7.5 (or a different version number)
+
+However, if it's not the case, check this page:
+
+http://askubuntu.com/questions/101591/how-do-i-install-python-2-7-2-on-ubuntu
+
+c)* learning vim (advanced, only do it if you have spare time. You should not get too bogged down in any advanced task like this)
+
+It's OK to use kwrite, gedit, or any other 记事本-like program to edit a plain txt file. However, that is not what a programmer, even a bad one, would do in the long run. You may want to learn vim or emacs, which is much more productive.
+
+http://www.swaroopch.com/notes/vim/
+
+check this tutorial.
+
+=============================================================================================================
+If you finished task a), b), you are in shape to begin the python exploration !
