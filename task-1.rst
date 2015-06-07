@@ -13,32 +13,28 @@ screen. Its very first version looks quite stupid, but we could improve it
 later on.
 
 Below is a list of quotations, you are required to print them one by one, and
-follow a specfic format
+follow a specfic format::
 
-```
-who?            |  said what?
-carl sagan      | Somewhile, something incredible is waiting to be know. 
-richard feynman | The first principle is that you must not fool yourself and you are the easiest person to fool.
-issac asimov    | Am I trying to find God? Well, God is smarter than me, so let him find me.
-walt disney     | Laughter is timeless, imagination has no age, and dreams are forever.
-mahatma gandhi  | Live as if you were to die tomorrow. Learn as if you were to live forever.
-the terminator  | I'll be back.
-lao tzu         | When I let go of what I am, I become what I might be.
-jim carrey      | Good morning! And in case I don't see you: good afternoon, good evening and good night.
-issac newton    | We build too many walls and not enough bridges.
-mark twain      | It's not the size of the dog in the flight, it's the size of the fligt in the dog.
-```
+   who?            |  said what?
+   carl sagan      | Somewhile, something incredible is waiting to be know. 
+   richard feynman | The first principle is that you must not fool yourself and you are the easiest person to fool.
+   issac asimov    | Am I trying to find God? Well, God is smarter than me, so let him find me.
+   walt disney     | Laughter is timeless, imagination has no age, and dreams are forever.
+   mahatma gandhi  | Live as if you were to die tomorrow. Learn as if you were to live forever.
+   the terminator  | I'll be back.
+   lao tzu         | When I let go of what I am, I become what I might be.
+   jim carrey      | Good morning! And in case I don't see you: good afternoon, good evening and good night.
+   issac newton    | We build too many walls and not enough bridges.
+   mark twain      | It's not the size of the dog in the flight, it's the size of the fligt in the dog.
 
 For example, after you run the script and print the first quotation, the output
-should be like this:
+should be like this::
 
-```
-%%%%%%%%%%%%%%%%%%% Quotation of the Day %%%%%%%%%%%%%%%%%%%%%%%%%%
-%   Somewhile, something incredible is waiting to be know.        %
-%                                                                 %
-%                                --- Carl Sagan                   %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-```
+    %%%%%%%%%%%%%%%%%%% Quotation of the Day %%%%%%%%%%%%%%%%%%%%%%%%%%
+    %   Somewhile, something incredible is waiting to be know.        %
+    %                                                                 %
+    %                                --- Carl Sagan                   %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 In some cases, the sentence is long. However, I hope you still keep it in the
 box. Try to do this first.  
