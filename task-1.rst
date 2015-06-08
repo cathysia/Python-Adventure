@@ -60,9 +60,9 @@ up with the details. Aftert the reading, you should know:
 step 2: Thinking
 ----------------
 
-  The spirit of programming is to have a step-by-step task list to finish the project. 
+The spirit of programming is to have a step-by-step task list to finish the project. 
 
-  If you have questions, just ask!
+If you have questions, just ask!
 
 step 3: Writing
 ----------------
