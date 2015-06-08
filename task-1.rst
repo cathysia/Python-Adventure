@@ -16,7 +16,7 @@ Below is a list of quotations, you are required to print them one by one, and
 follow a specfic format::
 
    who?            |  said what?
-   carl sagan      | Somewhile, something incredible is waiting to be know. 
+   carl sagan      | Somewhere, something incredible is waiting to be known. 
    richard feynman | The first principle is that you must not fool yourself and you are the easiest person to fool.
    issac asimov    | Am I trying to find God? Well, God is smarter than me, so let him find me.
    walt disney     | Laughter is timeless, imagination has no age, and dreams are forever.
@@ -31,7 +31,7 @@ For example, after you run the script and print the first quotation, the output
 should be like this::
 
     %%%%%%%%%%%%%%%%%%% Quotation of the Day %%%%%%%%%%%%%%%%%%%%%%%%%%
-    %   Somewhile, something incredible is waiting to be know.        %
+    %   Somewhere, something incredible is waiting to be known.        %
     %                                                                 %
     %                                --- Carl Sagan                   %
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
