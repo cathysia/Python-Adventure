@@ -64,6 +64,17 @@ The spirit of programming is to have a step-by-step task list to finish the proj
 
 If you have questions, just ask!
 
+* to help your next step, I suggest you first make a mutiplication table, which have the form
+  like::
+
+      1 * 1 = 1
+      2 * 1 = 2     2 * 2 = 4
+      3 * 1 = 3     3 * 2 = 6   3 * 3 = 9
+      4 * 1 = 4     ...
+      ...
+      ...
+      9 * 1 = 9     9 * 2 = 18  ...  ...  ... 9 * 9 = 81
+
 step 3: Writing
 ----------------
    
