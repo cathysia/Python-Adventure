@@ -64,7 +64,7 @@ The spirit of programming is to have a step-by-step task list to finish the proj
 
 If you have questions, just ask!
 
-* to help your next step, I suggest you first make a mutiplication table, which have the form
+* to help your next step, I suggest you make a mutiplication table first, which has the form
   like::
 
       1 * 1 = 1
