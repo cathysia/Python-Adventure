@@ -18,4 +18,5 @@ following with Python
 * string operations, like replacing, removing, finding
 * write simple modules
 
+We'll also go back to Task 1 when we finish the decoding.
 (to be continued...)
